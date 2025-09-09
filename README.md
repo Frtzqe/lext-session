@@ -1,3 +1,8 @@
+# lext-session
+This repository Frtzqe/lext-session offers all that lxqt-session does, but allowes multiple sessions for the same user (on X11). 
+
+This was also possible in the official lxqt-session repository until Spring 2025. Multiple sessions were disabled, probably to stay in sync with developments with Wayland sessions. Too restrictive if you like to hook up a PC with VNC. Below is text from original repository.
+
 # lxqt-session
 
 ## Overview
