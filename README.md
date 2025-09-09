@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 # lext-session
 This repository Frtzqe/lext-session offers all that lxqt-session does, but allowes multiple sessions for the same user (on X11). 
 
